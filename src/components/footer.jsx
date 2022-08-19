@@ -20,7 +20,7 @@ export const Footer = (props) => {
               </p>
               <ul>
                 <li>
-                  <a href="#">
+                  <a href="./#">
                     <i class="fa fa-facebook"></i>
                   </a>
                   <a
@@ -47,16 +47,16 @@ export const Footer = (props) => {
               <h3>Information link</h3>
               <ul>
                 <li>
-                  <a href="#">Home</a>
+                  <a href="./#">Home</a>
                 </li>
                 <li>
-                  <a href="#">About</a>
+                  <a href="./#">About</a>
                 </li>
                 <li>
-                  <a href="#">Gallery</a>
+                  <a href="./#">Gallery</a>
                 </li>
                 <li>
-                  <a href="#">Contact</a>
+                  <a href="./#">Contact</a>
                 </li>
               </ul>
             </section>
@@ -66,13 +66,13 @@ export const Footer = (props) => {
               <h3>Contact Details</h3>
               <ul>
                 <li>
-                  <a href="#">gyiif.iysa@gmail.com</a>
+                  <a href="./#">gyiif.iysa@gmail.com</a>
                 </li>
                 <li>
-                  <a href="#">0817 7091 4129</a>
+                  <a href="./#">0817 7091 4129</a>
                 </li>
                 <li>
-                  <a href="#">https://gyiif.or.id/</a>
+                  <a href="./#">https://gyiif.or.id/</a>
                 </li>
                 <li style={{ marginLeft: "845px" }}>
                   Jalan Kemang No. 63 RT. 3 RW. 06 Pasir Putih, Sawangan Depok
@@ -86,7 +86,7 @@ export const Footer = (props) => {
         <div className="container text-center" style={{ marginTop: "70px" }}>
           <p>
             &copy; 2022 Official GYIIF. Design by{" "}
-            <a href="#" rel="nofollow">
+            <a href="./#" rel="nofollow">
               Web Developer
             </a>
           </p>

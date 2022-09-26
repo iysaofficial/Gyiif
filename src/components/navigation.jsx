@@ -28,7 +28,8 @@ export const Navigation = (props) => {
         </div>
 
         <div
-          className=" container-fluid"
+          className="collapse navbar-collapse"
+          id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
             <li>

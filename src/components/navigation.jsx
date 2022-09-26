@@ -2,9 +2,9 @@
 
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container-fluid'>
-        <div className='navbar-header'>
+    <nav id='menu' className='container-fluid navbar navbar-default navbar-fixed-top '>
+      <div className='container'>
+        <div className='navbar-header '>
           <button
             type='button'
             className='navbar-toggle collapsed'

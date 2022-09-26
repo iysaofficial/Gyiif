@@ -2,7 +2,7 @@ export const Navigation = (props) => {
   return (
     <nav
       id="menu"
-      className="container-fluid navbar-expand-lg navbar navbar-default navbar-fixed-top "
+      className="navbar-expand-lg navbar navbar-default navbar-fixed-top "
     >
       <div className="container-fluid">
         <div className="navbar-header ">

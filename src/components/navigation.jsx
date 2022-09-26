@@ -1,10 +1,10 @@
 export const Navigation = (props) => {
   return (
-    <div className="container-fluid">
-      <nav
-        id="menu"
-        className="navbar-expand-lg navbar navbar-default navbar-fixed-top "
-      >
+    <nav
+      id="menu"
+      className="container-fluid navbar-expand-lg navbar navbar-default navbar-fixed-top "
+    >
+      <div className="container-fluid">
         <div className="navbar-header ">
           <button
             type="button"
@@ -72,7 +72,7 @@ export const Navigation = (props) => {
             </li>
           </ul>
         </div>
-      </nav>
-    </div>
+      </div>
+    </nav>
   );
 };

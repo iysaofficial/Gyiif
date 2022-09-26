@@ -14,7 +14,9 @@ export const Navigation = (props) => {
           >
             {" "}
             <span className="sr-only">Toggle navigation</span>{" "}
-
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
+            <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
             <img
@@ -26,8 +28,7 @@ export const Navigation = (props) => {
         </div>
 
         <div
-          className="collapse navbar-collapse"
-          id="bs-example-navbar-collapse-1"
+          className=" container-fluid"
         >
           <ul className="nav navbar-nav navbar-right">
             <li>

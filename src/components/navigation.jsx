@@ -3,7 +3,7 @@
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
-      <div className='container'>
+      <div className='container-fluid'>
         <div className='navbar-header'>
           <button
             type='button'
@@ -29,7 +29,7 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#page-top' className='page-scroll'>
-              HOME
+              Home
               </a>
             </li>
             <li>
@@ -47,13 +47,13 @@ export const Navigation = (props) => {
                 Categories
               </a>
             </li> */}
-            <li>
+            {/* <li>
               <a href='#portfolio' className='page-scroll'>
                 Gallery
               </a>
-            </li>
+            </li> */}
             <li>
-              <a href='https://drive.google.com/file/d/1doXsCtp2CkKsXnU_RUaXJ-6J5iQqU2zK/view?usp=sharing' className='page-scroll'>
+              <a href='https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=sharing' className='page-scroll'>
                 Guide Book
               </a>
             </li>

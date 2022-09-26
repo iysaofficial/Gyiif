@@ -47,11 +47,11 @@ export const Navigation = (props) => {
                 Categories
               </a>
             </li> */}
-            {/* <li>
+            <li>
               <a href='#portfolio' className='page-scroll'>
                 Gallery
               </a>
-            </li> */}
+            </li>
             <li>
               <a href='https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=sharing' className='page-scroll'>
                 Guide Book

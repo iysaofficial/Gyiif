@@ -76,20 +76,22 @@ export const Footer = (props) => {
                 </li>
                 <li style={{ marginLeft: "845px" }}>
                   Jalan Kemang No. 63 RT. 3 RW. 06 Pasir Putih, Sawangan Depok
-                  Kecamatan Sawangan,
-                  Kota Depok, Jawa Barat 16511, Indonesia.
+                  Kecamatan Sawangan, Kota Depok, Jawa Barat 16511, Indonesia.
                 </li>
               </ul>
+              <div
+                className="container text-center"
+                style={{ marginTop: "70px" }}
+              >
+                <p>
+                  &copy; 2022 Official GYIIF. Design by{" "}
+                  <a href="./#" rel="nofollow">
+                    Web Developer
+                  </a>
+                </p>
+              </div>
             </section>
           </div>
-        </div>
-        <div className="container text-center" style={{ marginTop: "70px" }}>
-          <p>
-            &copy; 2022 Official GYIIF. Design by{" "}
-            <a href="./#" rel="nofollow">
-              Web Developer
-            </a>
-          </p>
         </div>
       </div>
     </div>

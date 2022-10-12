@@ -2,11 +2,11 @@ export const Navigation = (props) => {
   return (
     <nav
       id="menu"
-      className="navbar-expand-lg navbar-fluid navbar-default navbar-fixed-top "
+      className="navbar-expand-lg navbar navbar-default navbar-fixed-top "
     >
       <div className="container-fluid">
-        <div className="navbar-header ">
-          {/* <button
+        <div className="navbar-header navbar-fluid ">
+          <button
             type="button"
             className="navbar-toggle collapsed"
             data-toggle="collapse"
@@ -17,7 +17,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
-          </button> */}
+          </button>
           <a className="navbar-brand page-scroll" href="#page-top">
             <img
               src="img/gyifLogo.png"

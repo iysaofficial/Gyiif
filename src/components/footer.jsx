@@ -75,8 +75,8 @@ export const Footer = (props) => {
                   <a href="./#">https://gyiif.or.id/</a>
                 </li>
                 <li style={{ marginLeft: "845px" }}>
-                  Jalan Kemang No. 63 RT. 3 RW. 06 Pasir Putih, Sawangan Depok
-                  Kecamatan Sawangan, Kota Depok, Jawa Barat 16511, Indonesia.
+                  Jalan Kemang No.63 RT.3 RW.06 Pasir Putih,
+                  Sawangan, Kota Depok, Jawa Barat 16511, Indonesia.
                 </li>
               </ul>
               <div

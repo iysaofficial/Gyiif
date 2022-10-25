@@ -57,14 +57,14 @@ export const Navigation = (props) => {
                 Gallery
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=sharing"
                 className="page-scroll"
               >
                 Guide Book
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#contact" className="page-scroll">
                 Contact

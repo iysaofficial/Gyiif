@@ -29,7 +29,7 @@ export const Header = (props) => {
                   Registration
                 </a>{" "}
                 <a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSdpVpDf14EiCa1hDuB12keds8wL7nweQT8aqXbNhht6J9_dYQ/viewform?usp=share_link"
+                  href="https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=share_link"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   GuideBook

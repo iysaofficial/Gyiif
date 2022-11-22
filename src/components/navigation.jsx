@@ -59,7 +59,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a
-                href="https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=sharing"
+                href=" https://drive.google.com/file/d/1kjEQDn9qmt0WXlWyfDRGR238PNnqkDGT/view?usp=share_link "
                 className="page-scroll"
               >
                 Guide Book

@@ -49,17 +49,11 @@
     ],
     
     "Team": [{
-            "img": "img/team/01.png" 
+            "img": "img/team/iysa.png" 
         },
         {
-            "img": "img/team/02.png" 
-        },
-        {
-            "img": "img/team/03.png"
-        },
-        {
-            "img": "img/team/04.png"
-           }
+            "img": "img/team/logo-ITP3.png" 
+        }
     ],
     "Contact": {
         "address": "Jalan Kemang No. 63 RT. 3 RW. 06 Pasir Putih, Kecamatan Sawangan, Kota Depok, Jawa Barat 16511, Indonesia. ",

@@ -12,7 +12,6 @@ export const Features = (props) => {
           <div className='col-xs-12 col-md-6'>
             {' '}
             <img src='img/team/iysa.png' className='img-responsive' alt='' />{' '}
-            <img src='img/team/logo-ITP3.png' className='img-responsive' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             {' '}

@@ -12,6 +12,10 @@ export const Team = (props) => {
                   <div className='thumbnail'>
                     {' '}
                     <img src={d.img} alt='...' className='team-img' />
+                    <div className='caption'>
+                      <h4>{d.name}</h4>
+                      <p>{d.job}</p>
+                    </div>
                   </div>
                 </div>
               ))

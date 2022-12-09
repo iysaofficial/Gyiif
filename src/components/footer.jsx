@@ -3,7 +3,7 @@
 export const Footer = (props) => {
   return (
     <div>
-      <div id="footer" style={{ backgroundColor: "grey" }}>
+      <div id="footer" style={{ backgroundColor: "#B0E0E6" }}>
         <div className="footer-top">
           <div
             style={{ marginLeft: "70px", marginTop: "-2%" }}

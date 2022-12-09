@@ -49,10 +49,10 @@
     ],
     
     "Team": [{
-            "img": "img/team/iysa.png" 
+            "img": "./public/img/team/iysa.png" 
         },
         {
-            "img": "img/team/logo-ITP3.png" 
+            "img": "./public/img/team/logo-ITP3.png" 
         }
     ],
     "Contact": {

@@ -64,26 +64,14 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "icon": "fa fa-comments-o",
+            "image": "img/team/iysa.png",
             "title": "Lorem ipsum"
            
         },
         {
-            "icon": "",  
-            "title": "Lorem ipsum"
-           
-        },
-        {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum"
-            
-        },
-        {
-            "icon": "fa fa-magic",
+            "image": "img/team/logo-ITP3.png",  
             "title": "Lorem ipsum"
            
         }
-
-        
     ]
 }

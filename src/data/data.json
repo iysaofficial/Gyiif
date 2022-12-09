@@ -64,12 +64,12 @@
         "youtube": "youtube.com"
     },
     "Features": [{
-            "image": "img/team/iysa.png",
+            "image": "./public/img/team/iysa.png",
             "title": "Lorem ipsum"
            
         },
         {
-            "image": "img/team/logo-ITP3.png",  
+            "image": "./public/img/team/logo-ITP3.png",  
             "title": "Lorem ipsum"
            
         }

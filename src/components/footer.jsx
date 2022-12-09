@@ -63,22 +63,6 @@ export const Footer = (props) => {
           </div>
           <div style={{ marginLeft: "10px", marginTop: "0%" }}>
             <section>
-              <h3>Contact Details</h3>
-              <ul>
-                <li>
-                  <a href="./#">gyiif.iysa@gmail.com</a>
-                </li>
-                <li>
-                  <a href="./#">0817 7091 4129</a>
-                </li>
-                <li>
-                  <a href="./#">https://gyiif.or.id/</a>
-                </li>
-                <li style={{ marginLeft: "845px" }}>
-                  Jalan Kemang No.63 RT.3 RW.06 Pasir Putih,
-                  Sawangan, Kota Depok, Jawa Barat 16511, Indonesia.
-                </li>
-              </ul>
               <div
                 className="container text-center"
                 style={{ marginTop: "70px" }}

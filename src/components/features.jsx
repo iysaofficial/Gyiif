@@ -9,16 +9,12 @@ export const Features = (props) => {
           <h2>ORGANIZED BY</h2>
         </div>
           <div> 
-            
+          <div className='col-xs-12 col-md-6'>
+            {' '}
+            <img src='img/team/iysa.png' className='img-responsive' alt='' />{' '}
+            <img src='img/team/logo-ITP3.png' className='img-responsive' alt='' />{' '}
           </div>
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
-                  {' '}
-                  <i className={d.image}></i>
-                </div>
-              ))
-            : 'Loading...'}
+          </div>
         </div>
       </div>
 
